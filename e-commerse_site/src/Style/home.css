@@ -1,0 +1,20 @@
+.parant{
+    height: calc( 100vh - 80px) ;
+    width: 100%;
+   
+}
+
+
+.carousel-caption{
+    padding: 0!important;
+   padding-bottom: 32px !important;
+        margin: 0;
+        position: absolute ;
+        bottom: 0!important;
+        right: 0 !important;
+        top: 50%;
+        left: 50% !important;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    
+}

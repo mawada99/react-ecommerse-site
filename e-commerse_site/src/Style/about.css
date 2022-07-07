@@ -1,0 +1,28 @@
+.headColor{
+    color: rgb(0, 229, 255) !important;
+}
+.subtitle{
+    color: #1A6692 !important;
+    margin-bottom: 15px !important;
+}
+.icon i{
+    background-color: #EEEEEE !important;
+    padding: 20px !important;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.icon i:hover{
+    background-color:rgb(0, 229, 255) !important;
+    color: white !important;
+}
+
+.aboutImage img{
+width: 100% ;
+
+}
+@media  (max-width:767px){
+    .aboutImage {
+     margin-bottom: 17px;
+        
+        }
+}
